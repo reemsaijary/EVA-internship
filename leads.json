@@ -1,0 +1,24 @@
+
+[
+  {
+    "company_name": "ABC Engineering",
+    "contact_name": "Ahmad Saleh",
+    "email": "info@abc.com",
+    "phone": "+96170000000",
+    "industry": "Engineering",
+    "country": "UAE",
+    "lead_status": "New",
+    "notes": "Imported from JSON"
+  },
+
+  {
+    "company_name": "LegalPro Firm",
+    "contact_name": "Sarah Khalil",
+    "email": "contact@legalpro.com",
+    "phone": "+96171111111",
+    "industry": "Legal",
+    "country": "Lebanon",
+    "lead_status": "Interested",
+    "notes": "Imported from JSON"
+  }
+]
