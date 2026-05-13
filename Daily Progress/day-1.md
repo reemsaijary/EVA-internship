@@ -2,15 +2,25 @@
 
 Date: May 13, 2026
 
-Today I:
-- Reviewed EVA Ops v3 internship dashboard
-- Understood Growth Engineer responsibilities
-- Organized internship folder structure
-- Started learning n8n workflow basics
-- Reviewed ICP and outreach concepts
-- Started preparing workflow environment
+## What I Learned
 
-Tomorrow:
-- Learn n8n nodes and workflow basics
-- Explore Supabase setup
-- Start first workflow prototype
+- Reviewed EVA Ops internship dashboard
+- Learned basic concepts of outreach and lead generation
+- Organized internship workspace and GitHub repository
+- Installed Node.js and npm
+- Installed and explored n8n workflow automation platform
+- Created a simple first workflow in n8n
+- Learned the basic structure of automation workflows
+- Practiced passing data between workflow nodes
+- Explored Google Sheets integration setup in n8n
+- Learned that external integrations may require OAuth/API credentials
+
+## Tools Used
+- VS Code
+- Git & GitHub
+- Node.js
+- npm
+- n8n
+
+## Notes
+n8n is a workflow automation platform that connects apps and automates tasks between services.
