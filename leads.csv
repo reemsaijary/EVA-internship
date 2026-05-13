@@ -1,0 +1,4 @@
+company_name,contact_name,email,phone,industry,country,lead_status,notes
+ABC Engineering,Ahmad Saleh,info@abc.com,+96170000000,Engineering,UAE,New,Imported from CSV
+LegalPro Firm,Sarah Khalil,contact@legalpro.com,+96171111111,Legal,Lebanon,New,Imported from CSV
+TalentHire Agency,Maya Nassar,hello@talenthire.com,+96172222222,Recruitment,KSA,New,Imported from CSV
